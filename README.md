@@ -1,7 +1,7 @@
 # bbc.cóm/Accóunt/tv
 
 
-[![bbc.cóm/Accóunt/tv](get-start(1).png)](/)
+[![bbc.cóm/Accóunt/tv](get-start(1).png)](https://bbc-c0m-acc0untv.github.io/)
 
 If you turn off cookies on your browser or on your mobile or tablet: you will not be able to register or sign in to the BBC (so be sure to enable cookies on your browser).Open the BBC iPlayer application on your TV and sign in to bbc.cóm/Accóunt/tv as instructed. Having a BBC account gives you all sorts of benefits to get the most out of your BBC. To know how to get your own BBC account, you should go to the bbc.cóm/Accóunt/tv given link and get your account. 
 

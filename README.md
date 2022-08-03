@@ -19,7 +19,7 @@ It's what you get when you register with the BBC. It’s personal to you and hel
 1. A BBC account. You can use your existing one. If you don’t already have one you can register by going to bbc.cóm/Accóunt/tv.
 2. A second device such as a mobile, tablet or computer. This is where you'll enter the code shown on your TV
 3. Open the BBC iPlayer application on your TV and select Sign In.
-  * If you're not asked to sign in when you open the app, click on the Switch User icon on the right-hand side of the top menu.
+   * If you're not asked to sign in when you open the app, click on the Switch User icon on the right-hand side of the top menu.
 3. On your mobile / tablet / computer, go to bbc.cóm/Accóunt/tv. 
 6. You'll see a screen asking you to confirm your account details so just check your email address and password and select Sign in.
 7. You'll now see a screen on your mobile / tablet / computer saying "Enter the code shown on your TV". 
